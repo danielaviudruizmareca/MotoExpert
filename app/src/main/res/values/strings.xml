@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MotoExpert</string>
+
+
+    <string name="infodiferencia">La diferencia entre las motos de 4 y de 2 tiempos está en el motor. Como bien indican sus respectivos nombre, el proceso de combustión de la gasolina en cada uno de los dos motores se realiza en 4 o 2 etapas respectivamente.</string>
+
+    <string name="diferenciaciclos4tiempos">"                       4 TIEMPOS
+
+Ventajas
+
+> Consume menos combustible
+> Motor mas confiable
+> Contamina menos
+> Vibra menos
+> Mejor torque
+
+Desventajas
+
+> Menos potencia
+> Mas peso
+> Motor mas costoso al reparar
+
+"</string>
+
+
+    <string name="diferenciaciclos2tiempos">"                       2 TIEMPOS
+
+Ventajas
+
+> Gran potencia con menos peso
+> Mejor pique
+> Reparación mas barata
+> Motor mas liviano
+
+Desventajas
+
+> Consume mas combustible
+> Hay que gastar en aceite de 2 tiempos
+> Es mas contaminante
+"</string>
+
+
+    <string name="infomotoccicleta">"MOTOCICLETA
+
+Una motocicleta, comúnmente conocida en castellano con la abreviatura moto, es un vehículo de dos ruedas impulsado por un motor de combustión interna a gasolina. El chasis y las ruedas constituyen la estructura fundamental del vehículo. La rueda directriz es la delantera y la rueda motriz es la trasera.
+
+"</string>
+
+
+
+</resources>

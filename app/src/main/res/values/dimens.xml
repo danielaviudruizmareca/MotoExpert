@@ -1,0 +1,12 @@
+<resources>
+    <!-- dimensiones del activity_main.-->
+    <dimen name="padding_layoutprincipal">16dp</dimen>
+    <dimen name="tamaño_textoprincipal">20sp</dimen>
+    <dimen name="margintop_primercontenedorcar">28dp</dimen>
+    <dimen name="margintop_segundocontenedorcar">8dp</dimen>
+    <dimen name="ancho_car">150dp</dimen>
+    <dimen name="alto_car">140dp</dimen>
+    <dimen name="margin_car">10dp</dimen>
+
+
+</resources>
